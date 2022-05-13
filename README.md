@@ -1,2 +1,1 @@
-# GAN-HSI-SR
-Reimplemention paper 'Hyperspectral Image Super-Resolution by Band Attention Through Adversarial Learning'
+# Super resolution of hyperspectral images and its verification using deep learning techniques
