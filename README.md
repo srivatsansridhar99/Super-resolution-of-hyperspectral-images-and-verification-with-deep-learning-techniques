@@ -1,2 +1,2 @@
-# Super-resolution-of-hyperspectral-images-and-verification-with-deep-learning-techniques
-Super resolution of hyperspectral images and verification with deep learning techniques
+# GAN-HSI-SR
+Reimplemention paper 'Hyperspectral Image Super-Resolution by Band Attention Through Adversarial Learning'
