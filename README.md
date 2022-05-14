@@ -1,1 +1,2 @@
 # Super resolution of hyperspectral images and its verification using deep learning techniques
+The jupyter notebook file main.ipynb is the main code to be run for super resolution and pixelwise classification. The file net.py contains the details about the GAN for super resolution, for which training is provided in main.ipynb. The model and training for the pixelwise classifier is present in main.ipynb itself. main.ipynb also contains all the results and metrics which were used to judge the model. 
